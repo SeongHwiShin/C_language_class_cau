@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shinmyounghwan/ClionProjects/untitled3/20180316.c
+stdio.h
+/Users/shinmyounghwan/ClionProjects/untitled3/stdio.h
+

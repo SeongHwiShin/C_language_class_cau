@@ -1,0 +1,34 @@
+Hello, World!
+4 와 22의 합은 26입니다.
+Process finished with exit code 0
+
+여행은 몇박인가요22
+항공권 가격1000000
+호텔 1박 가격100000
+하루에 필요한 용돈50000
+======================
+총 여행 비용 : 4300000
+Process finished with exit code 0
+
+
+첫번째숫자 입력4
+두번째숫자 입력22
+두수의 합26
+두수의 차-18
+두수의 곱88
+두수의 몫0
+
+Process finished with exit code 0
+
+
+
+정수 입력:1999
+정수 입력:4
+정수 입력:22
+평균은 675
+Process finished with exit code 0
+
+
+반지름을 입력하시오22
+원의 면적 1519.760000
+Process finished with exit code 0

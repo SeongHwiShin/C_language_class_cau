@@ -1,0 +1,51 @@
+/Users/shinmyounghwan/ClionProjects/untitled3/cmake-build-debug/untitled3
+Hello, World!
+
+Process finished with exit code 0 
+
+
+
+
+/Users/shinmyounghwan/ClionProjects/untitled3/cmake-build-debug/untitled3
+Hello 신성휘
+from 신성휘
+3 X 1 = 3
+3 X 2 = 6
+3 X 3 = 9
+
+Process finished with exit code 0
+
+
+/Users/shinmyounghwan/ClionProjects/untitled3/cmake-build-debug/untitled3
+Hello 신성휘
+from 신성휘
+3 X 1 = 3
+3 X 2 = 6
+3 X 3 = 9
+두 수 4와 22의 합 = 26
+Process finished with exit code 0
+
+/Users/shinmyounghwan/ClionProjects/untitled3/cmake-build-debug/untitled3
+첫번째 숫자 입력4
+두번째 숫자 입력22
+Hello 신성휘
+from 신성휘
+3 X 1 = 3
+3 X 2 = 6
+3 X 3 = 9
+두 수 4와 22의 합 = 26
+Process finished with exit code 0
+
+
+/Users/shinmyounghwan/ClionProjects/untitled3/cmake-build-debug/untitled3
+첫번째 숫자 입력4
+두번째 숫자 입력22
+Hello 신성휘
+from 신성휘
+3 X 1 = 3
+3 X 2 = 6
+3 X 3 = 9
+두 수 4와 22의 합 = 26
+두수의 평균 = 13
+Process finished with exit code 0
+

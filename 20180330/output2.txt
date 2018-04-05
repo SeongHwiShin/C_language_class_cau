@@ -1,0 +1,30 @@
+빛의 속도는 300000.000000km/s 
+태양과 지구의 거리 149600000.000000km 
+도달시간은 8.311111분
+
+Process finished with exit code 0
+
+
+반지름 입력 422
+면적 = 559183.760000
+Process finished with exit code 0
+
+s
+115
+4
+4
+52
+Process finished with exit code 0
+
+
+char형의 크기는 1바이트입니다
+short형의 크기는 2바이트입니다
+int형의 크기는 4바이트입니다
+long형의 크기는 8바이트입니다
+long long형의 크기는 8바이트입니다
+float형의 크기는 8바이트입니다
+double형의 크기는 4바이트입니다
+double형의 크기는 8바이트입니다
+long double형의 크기는 16바이트입니다
+
+Process finished with exit code 0
