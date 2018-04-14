@@ -1,0 +1,19 @@
+첫번째수 4
+두번째수 22
+큰수=22
+큰수=4
+
+Process finished with exit code 0
+
+Enter4
+Thankyou
+Process finished with exit code 0
+
+정수입력 422
+범위 초과
+Process finished with exit code 0
+
+수식입력4+22
+26
+Process finished with exit code 0
+
