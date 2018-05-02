@@ -1,0 +1,35 @@
+0 마일은 0미터입니다.
+1 마일은 1609미터입니다.
+2 마일은 3218미터입니다.
+
+Process finished with exit code 0
+
+24
+Process finished with exit code 0
+
+구구단 중에서 출력하고싶은 단을 입력하시오4
+4*1=4 
+4*2=8 
+4*3=12 
+4*4=16 
+4*5=20 
+4*6=24 
+4*7=28 
+4*8=32 
+4*9=36 
+
+Process finished with exit code 0
+
+================
+n n의 제곱
+================
+    1     1
+    2     4
+    3     9
+    4    16
+
+Process finished with exit code 0
+
+합은 500500입니다
+Process finished with exit code 0
+
